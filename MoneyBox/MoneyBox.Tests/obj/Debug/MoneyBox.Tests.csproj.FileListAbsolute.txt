@@ -60,3 +60,5 @@ C:\inetpub\wwwroot\MoneyBox2\MoneyBox\MoneyBox.Tests\bin\Debug\System.Web.WebPag
 C:\inetpub\wwwroot\MoneyBox2\MoneyBox\MoneyBox.Tests\obj\Debug\MoneyBox.Tests.csprojResolveAssemblyReference.cache
 C:\inetpub\wwwroot\MoneyBox2\MoneyBox\MoneyBox.Tests\obj\Debug\MoneyBox.Tests.dll
 C:\inetpub\wwwroot\MoneyBox2\MoneyBox\MoneyBox.Tests\obj\Debug\MoneyBox.Tests.pdb
+C:\inetpub\wwwroot\MoneyBox2\MoneyBox\MoneyBox.Tests\bin\Debug\MoneyBox.Tests.dll.CodeAnalysisLog.xml
+C:\inetpub\wwwroot\MoneyBox2\MoneyBox\MoneyBox.Tests\bin\Debug\MoneyBox.Tests.dll.lastcodeanalysissucceeded
